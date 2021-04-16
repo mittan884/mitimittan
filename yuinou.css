@@ -13,7 +13,13 @@ iframe {
     height: auto;
     }
 .color{font-size: 20px;
-    background-color: aquamarine;
     color: blueviolet;
+    font-style: oblique;
 
     }
+.left{font-size: 20px;
+        color: blueviolet;
+        font-style: oblique;
+        text-align:center
+    
+        }
