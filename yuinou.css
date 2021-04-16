@@ -14,12 +14,11 @@ iframe {
     }
 .color{font-size: 20px;
     color: blueviolet;
-    font-style: oblique;
-
+    font-style: italic;
     }
 .left{font-size: 20px;
-        color: blueviolet;
+        
         font-style: oblique;
-        text-align:center
+        text-align:left
     
         }
