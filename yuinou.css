@@ -23,6 +23,7 @@ iframe {
     
         }
 .table{background-color: white;
+        margin-top: 0px;;
             }
 .papa{padding: 20px; 
     background: #fff; 
@@ -35,7 +36,8 @@ iframe {
 
 .small{font-size: 4vmin;
 }
+.tume{margin-bottom: 0px;}
 
-p {
-    margin: 0.5em 0px;
- }
+h1 {margin-bottom: 0;
+}
+
