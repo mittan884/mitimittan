@@ -35,3 +35,7 @@ iframe {
 
 .small{font-size: 4vmin;
 }
+
+p {
+    margin: 0.5em 0px;
+ }
