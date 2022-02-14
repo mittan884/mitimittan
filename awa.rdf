@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mittan884.github.io/mitimittan/tesuto"?>
+<rdf:RDF
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xml:lang="ja">
+  <channel>
+    <title>凸凹フレンズ</title>
+    <link>https://mitimittan.com</link>
+    <dc:date>2022-02-14T22:34:20+09:00</dc:date>
+    <admin:generatorAgent rdf:resource="http://www.infomaker.jp/editorlite/?v=0.93" />
+    <items>
+      <rdf:Seq>
+      </rdf:Seq>
+    </items>
+  </channel>
+</rdf:RDF>
