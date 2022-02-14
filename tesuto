@@ -1,0 +1,47 @@
+@charset "utf-8"; /* 文字コード宣言（必ずutf-8を指定）、先頭に記述すること */
+
+/* 表示アイテム */
+RDF, rss, channel, item, title, description, link, date {
+    display: block;
+    font-family:Verdana,sans-serif;
+    color:#000;
+    font-size:100%;
+}
+RDF {
+    background-color:#f7f7f7;
+}
+/* サイトタイトル・内容部分 */
+channel{
+    margin:0 0 1em 0;
+    padding:1em 0;
+    background-color:#ffffcc;
+}
+/* 各アイテムの余白調整 */
+item {
+    margin:0.5em 0 1em 3em;
+    padding:0.5em;
+}
+title {
+    margin:.5em 0.5em 0.3em 0.5em;
+    padding:0;
+    font-weight:bold;
+    border-bottom:1px solid #ccc;
+}
+/* URL */
+link {
+    font-size:75%;
+    font-style:italic;
+    margin-left:2em;
+}
+/* 更新日 */
+date {
+    font-size:75%;
+    text-align:right;
+    padding-right:1em;
+}
+/* 内容 */
+description {
+    margin-left:2em;
+    font-size:75%;
+    color:#666;
+}
